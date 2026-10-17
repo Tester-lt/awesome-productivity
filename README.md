@@ -28,6 +28,7 @@
 - [The Bullet Journal](https://bulletjournal.com/) - A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
 - [Zen Habits](https://zenhabits.net/) - Blog by Leo Babauta with topics such as simplifying life.
 - [Productive Fish](https://productive.fish/) - Useful articles on how to be more productive, study effectively and improve well-being.
+- [Tester.lt](https://www.tester.lt/en/) - Free, anonymous browser-based assessments and audits for burnout, career alignment (RIASEC), Cartesian decision-making, and Big Five personality with optional AI insights.
 
 ## Books
 
